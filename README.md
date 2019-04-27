@@ -24,31 +24,31 @@ All design materials related with evilfactory
 
 Currently we are using 8 colors kind
 
-### Red
+### Red (#E53A40)
 
 ![Red](https://i.imgur.com/0Q9R4LU.png)
 
-### Red (darker)
+### Red Darker (#D01C22)
 
 ![Red darker](https://i.imgur.com/6pzyJpe.png)
 
-### Navy
+### Navy (#001B44)
 
 ![Navy](https://i.imgur.com/9fLBhK8.png)
 
-### Black (lighter)
+### Black Lighter (#333333)
 
 ![Black lighter](https://i.imgur.com/TdvGdwq.png)
 
-### Black
+### Black (#000000)
 
 ![Black](https://i.imgur.com/vFUKzTK.png)
 
-### Silver
+### Silver (#EEEEEE)
 
 ![Silver](https://i.imgur.com/TyNL2JN.png)
 
-### Gray
+### Gray (#DDDDDD)
 
 ![Gray](https://i.imgur.com/L32losL.png)
 
