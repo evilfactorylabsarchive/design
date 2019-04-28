@@ -56,9 +56,9 @@ Currently we are using 8 colors kind
 
 This is temporary logo as long as this icon was taken from [Icons8](https://icons8.com)
 
-### Old logo
+### New Logo
 
 Since we are Open Source organization, Icons8 provides free license to use their icons for
 Open Source project.
 
-<img src="https://i.imgur.com/eaHNVAh.png" alt="Old logo" width="100" />
+<img src="logo/512-transp.svg" width=10%>
