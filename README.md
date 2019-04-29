@@ -24,7 +24,7 @@ All design materials related with evilfactory
 
 Currently we are using 8 colors kind
 
-### Red (#E53A40)
+### Red (#E53A40) [accessibility problem]
 
 ![Red](https://i.imgur.com/0Q9R4LU.png)
 
@@ -54,11 +54,9 @@ Currently we are using 8 colors kind
 
 ## Logo
 
-This is temporary logo as long as this icon was taken from [Icons8](https://icons8.com)
+Our logo was designed by [@ri7nz](https://github.com/ri7nz) and digitalized
+(and explored) by [@mirzazulfan](https://github.com/mirzazulfan).
 
-### New Logo
-
-Since we are Open Source organization, Icons8 provides free license to use their icons for
-Open Source project.
+We have so many logo variants, take a look to [this repo](https://github.com/evilfactory/design/tree/master/logo/guidelines) for logo guidelines.
 
 <img src="logo/512-transp.svg" width=10%>
